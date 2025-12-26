@@ -1,0 +1,7 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class GameOverUI : UI_Popup
+{
+}
